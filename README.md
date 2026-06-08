@@ -1,4 +1,4 @@
 # skillup-first-repo
 This is my Git repo
-br
+<br>
 Author - skillup simpilearn
